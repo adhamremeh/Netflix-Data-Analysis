@@ -16,9 +16,13 @@ In the `Netflix_Analysis_Final_Project.ipynb` jupyter notebook included, there a
  - Conclusions and explanations on needed parts.
 
 Required Libraries to install:
-- numpy  ->  `pip install numpy`
 - matplotlib  ->  `pip install matplotlib`
-- pandas  ->  `pip install pandas`
-- random  ->  `pip install random`
-- seaborn  ->  `pip install seaborn`
 - sklearn  ->  `pip install sklearn`
+- seaborn  ->  `pip install seaborn`
+- random  ->  `pip install random`
+- pandas  ->  `pip install pandas`
+- numpy  ->  `pip install numpy`
+
+
+
+
