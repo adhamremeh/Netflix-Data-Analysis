@@ -8,7 +8,7 @@
    - Movies and TV Shows on Netflix dataset.
 
 #
-In the `Netflix_Analysis_Final_Project.ipynb` jupyter notebook included, there are:
+In the `Netflix_Analysis_Final_Project.ipynb` jupyter notebook, there are:
  - Data cleaning for our datasets.
  - Different data sampling techniques applied on both datasets.
  - EDA (Explaratory Data Analysis).
@@ -16,12 +16,36 @@ In the `Netflix_Analysis_Final_Project.ipynb` jupyter notebook included, there a
  - Conclusions and explanations on needed parts.
 
 Required Libraries to install:
-- matplotlib  ->  `pip install matplotlib`
-- seaborn  ->  `pip install seaborn`
-- sklearn  ->  `pip install sklearn`
-- random  ->  `pip install random`
-- pandas  ->  `pip install pandas`
-- numpy  ->  `pip install numpy`
+- matplotlib
+  
+  ```bash
+  pip install matplotlib 
+  ```
+- seaborn
+
+  ```bash
+  pip install seaborn
+  ```
+- sklearn
+
+  ```bash
+  pip install sklearn
+  ```
+- random
+
+  ```bash
+  pip install random
+  ```
+- pandas
+
+  ```bash
+  pip install pandas
+  ```
+- numpy
+
+  ```bash
+  pip install numpy
+  ```
 
 
 
